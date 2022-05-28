@@ -49,7 +49,8 @@ output
 
 ![](img/7%20tujuh.jpg)
 
-###### Selesai
+#### Link Lab10Web OOP (object oriented programming)
+#### https://github.com/faraclara/Lab10Web
 
 
 
