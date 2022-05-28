@@ -1,4 +1,4 @@
-# Lab10Web
+# Lab10Web (serta link lab10web)
 OOP (Object-oriented programming)
 
 ###### Nama : Fara Deviana
